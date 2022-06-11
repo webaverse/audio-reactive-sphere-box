@@ -1,0 +1,5 @@
+{
+  "name": "audio-reactive-particles",
+  "description": "audio reactive particles",
+  "start_url": "index.js"
+}
